@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  text-align: center;
+  background: rgb(152, 0, 199);
+  color: rgb(0, 0, 0);
+}
+
+canvas {
+  display: none;
+  margin: 0 auto;
+  background: black;
+}
+
+#menu {
+  margin-top: 200px;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+}
